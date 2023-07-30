@@ -83,3 +83,14 @@ https://www.mdpi.com/2227-7099/11/1/19
 
 
 https://arxiv.org/search/?query=econophysics&searchtype=all&source=header
+
+
+## community detection part 
+
+A comprehensive literature review on community detection: Approaches and applications
+https://www.sciencedirect.com/science/article/pii/S1877050919305046?ref=pdf_download&fr=RR-2&rr=7eed34383a22c08f
+
+
+physica-a 논문  
+FTX’s downfall and Binance’s consolidation: The fragility of centralised digital finance
+https://www.sciencedirect.com/science/article/pii/S037843712300599X?ref=pdf_download&fr=RR-2&rr=7eca9ca58c30c10a
