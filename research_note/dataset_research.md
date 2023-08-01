@@ -38,3 +38,59 @@ Turner JW , 2001 Developing an optimal match within online communities : an expl
 | [Bento](https://www.mdpi.com/2227-7099/11/1/19#B3-economies-11-00019)([2018](https://www.mdpi.com/2227-7099/11/1/19#B3-economies-11-00019)) |                  Crunchbase                   | 86,588 ventures located in USA and founded between 1985 and 2017. |     ‘M&A or IPO’ (15.8%), ‘operating or closed’ (84.2%).     |                             158                              | Logistic regression, support vector machines, random forests. |
 | [Krishna et al.](https://www.mdpi.com/2227-7099/11/1/19#B14-economies-11-00019) ([2016](https://www.mdpi.com/2227-7099/11/1/19#B14-economies-11-00019)) |                  Crunchbase                   |        11,000 ventures founded between 1999 and 2014.        |      ‘operating’ (9.4%), ‘M&A, IPO or closed’ (90.6%).       |                              13                              | Logistic regression, k-NN, naive Bayes, random forests, alternating decision trees, Bayesian networks. |
 | [Xiang et al.](https://www.mdpi.com/2227-7099/11/1/19#B30-economies-11-00019)([2012](https://www.mdpi.com/2227-7099/11/1/19#B30-economies-11-00019)) | Crunchbase + TechCrunch (top words in topics) |        59,631 ventures founded between 1970 and 2012.        |      ‘M&A’ (9.4%), ‘IPO, operating or closed’ (90.6%).       |                              22                              |        Logistic regression, support vector machines.         |
+
+
+nature쪽 논문 목록 
+
+
+The physics of financial networks
+
+https://www.nature.com/articles/s42254-021-00322-5
+
+Early-career setback and future career impact
+https://www.nature.com/articles/s41467-019-12189-3
+
+Expand innovation finance via crowdfunding
+https://www.science.org/doi/full/10.1126/science.aaf6989
+
+The interconnected wealth of nations: Shock propagation on global trade-investment multiplex networks
+https://www.nature.com/articles/s41598-019-49173-2
+
+Systemic stress test model for shared portfolio networks
+https://www.nature.com/articles/s41598-021-82904-y
+
+Vulnerability Analysis of the Financial Network
+https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2018.3106
+
+Quantifying the dynamics of failure across science, startups and security
+https://www.nature.com/articles/s41586-019-1725-y
+
+Cascading Failures in Bi-partite Graphs: Model for Systemic Risk Propagation
+https://www.nature.com/articles/srep01219
+
+The impact of funding on market valuation in technology start-up firms: Implication for open innovation
+https://www.sciencedirect.com/science/article/pii/S2199853123001300
+
+
+A Fundamental Connection: Exchange Rates and Macroeconomic Expectations
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3887178
+
+Financial shocks, credit spreads, and the international credit channel
+https://www.sciencedirect.com/science/article/abs/pii/S0022199621001239
+
+The Impact of Equity Funding Dynamics on Venture Success: An Empirical Analysis Based on Crunchbase Data
+https://www.mdpi.com/2227-7099/11/1/19
+
+
+https://arxiv.org/search/?query=econophysics&searchtype=all&source=header
+
+
+## community detection part 
+
+A comprehensive literature review on community detection: Approaches and applications
+https://www.sciencedirect.com/science/article/pii/S1877050919305046?ref=pdf_download&fr=RR-2&rr=7eed34383a22c08f
+
+
+physica-a 논문  
+FTX’s downfall and Binance’s consolidation: The fragility of centralised digital finance
+https://www.sciencedirect.com/science/article/pii/S037843712300599X?ref=pdf_download&fr=RR-2&rr=7eca9ca58c30c10a
