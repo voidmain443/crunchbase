@@ -17,6 +17,22 @@ small world network와 sacle free network 전부 hub 같은 노드를 가정하�
 기업의 발달과정을 알 수는 없다. 
 스타트업의 성공과 실패에 대한 연구들은 있지만  스타트업에서 우리는 무엇을 보아야할까 네트워크 적으로 ? 통계 물리학적 관점을 유지할 수 있는걸까 ? 시장 자체가 그냥 무작위라면 ?
 
+### 한국의 대학 교육과 노동시장 
+내생성 문제 존재 , 인과모델과 코호트 확인 필요 , 학력별 임금격차를 설명하는 표준 모형으로는 CES 생산 함수를 가정하는 HEckman, Lochner and Taber 1997년의 노동시장에 대한 연구와  노동공급의 내생성에 대한 이해 에 있어 exogenous supply shifter의 필요성을 논함. 
+이에 대한 교육과 노동에 대해서 국가의 똑똑함을 정의하는 것을 어떻게 이해하고 그 지식의 축적이 성공으 ㅣ단초의 역할을 한다고 생각하면 학교와 대학을 토대로 만들었고 , 각 국가별로 교육시스템이 달라 기업성장 및 그들의 경쟁성을 측정하는 것으로도 중요한 부분이다. 이에 대한 핸드북과 서적으로는 BEcker, Freeman, Willis, 교육의 수익률은 Card, HEckman Lochner, Todd, Meghir and Rivkin , 임금구조 자체에 대해서는 Katz and autor , Acemoglu and Autor meghir and rivikin. goldin and Katz가 연구를 해왔다. 
+
+
+### Changing Religious Landscape in America 
+The rise of the Bones , Stylized facts(GSS),Onc a Lutheran  Always a Lutheran?
+Dingeman Wiertz and Kristinn Már Ársælsson 
+start with the Hout and Fischer (2002) WHy more Americans have bo Religious Preference ? 
+General Social Survey? GSS 
+Persistence  Convergence Diveergence ? 
+
+
+
+
+
 ### reference 
 Granovetter 1973 the strength of weak ties 미국사회학회   
 Garton  Haythornthwaite Wellman 1997 Studing online social networks   
@@ -94,3 +110,7 @@ https://www.sciencedirect.com/science/article/pii/S1877050919305046?ref=pdf_down
 physica-a 논문  
 FTX’s downfall and Binance’s consolidation: The fragility of centralised digital finance
 https://www.sciencedirect.com/science/article/pii/S037843712300599X?ref=pdf_download&fr=RR-2&rr=7eca9ca58c30c10a
+
+
+## sleeping beauty 
+https://www.pnas.org/doi/epdf/10.1073/pnas.1424329112

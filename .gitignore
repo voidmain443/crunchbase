@@ -6,3 +6,4 @@ crunchbase_python_files/
 .ipynb_checkpoints/
 .idea/
 .DS_Store
+natural_earth_vector
