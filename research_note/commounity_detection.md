@@ -54,3 +54,6 @@ $$ Q = \frac{1}{2m} \Sigma_{i,j} \biggr[ A_{ij} - \frac{k_{i}k_{j}}{2m}\Biggr] \
 논문에서는 무역 데이터에 있어서 
 
 alternative inconsistency problem ?
+
+sleeping beauty measure ? 
+https://www.pnas.org/doi/epdf/10.1073/pnas.1424329112

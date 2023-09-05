@@ -50,3 +50,4 @@ homogeneous case, heterogeneous case,
 
 PNAS USA의 사회과학 분과의 논문들을 살펴봐도 좋을 것 같음 . 
 결국은 사회과학적 연구의 의미를 부과하거나 일정량의 환원성을 따질 수 있는 것이여야함. 
+
